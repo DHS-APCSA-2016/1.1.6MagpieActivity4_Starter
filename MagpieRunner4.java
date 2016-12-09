@@ -16,6 +16,7 @@ public class MagpieRunner4
 		Magpie4 maggie = new Magpie4();
 		
 		System.out.println (maggie.getGreeting());
+		System.out.println (maggie.getSecondaryResponse());
 		Scanner in = new Scanner (System.in);
 		String statement = in.nextLine();
 
