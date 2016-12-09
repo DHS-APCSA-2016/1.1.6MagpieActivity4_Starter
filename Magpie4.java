@@ -21,9 +21,9 @@ public class Magpie4
         return "Hello, would you like to have a conversation?";
     }
 
-    public String getEnding()
+    public String getSecondaryResponse()
     {
-        return "Good Bye, have a nice day!";
+        return "I consider myself an expert";
     } //Unique method
 
     /**
